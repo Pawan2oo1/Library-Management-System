@@ -104,9 +104,7 @@ public class Main {
     }
 
     private void searchBooks() {
-        System.out.println("a) By title
-b) By author
-c) By ISBN");
+        System.out.println("a) By title b) By author c) By ISBN");
         String opt = prompt("Choose: ");
         List<Book> results;
         switch (opt.toLowerCase()) {
