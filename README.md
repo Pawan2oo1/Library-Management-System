@@ -1,7 +1,6 @@
 
-# Library Management System (Basic, Java-only, Short Loan IDs)
+# Library Management System
 
-A minimal Library Management System in pure **Java 17** implementing only the **required features** with **short, human-friendly loan IDs** (e.g., `L-001`, `L-002`).
 
 ## ✅ Features
 - **Book Management**: add, update, remove; `Book` has title, author, ISBN, publication year
